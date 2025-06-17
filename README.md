@@ -1,2 +1,2 @@
-# HooBank
-you can get a lot of things ........
+# HooBank - Modern UI/UX website using React.js & Tailwind CSS
+
