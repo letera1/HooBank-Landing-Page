@@ -7,7 +7,7 @@ const CTA = () => (
       <h2 className={styles.heading2}>Let’s try our service now!</h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Everything you need to accept card payments and grow your business
-        anywhere on the planet at any time.
+        anywhere on the planet at any times.
       </p>
     </div>
 
