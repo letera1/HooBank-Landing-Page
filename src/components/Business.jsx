@@ -26,7 +26,7 @@ const Business = () =>  (
         your moneys.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
+        with the right credit card, You can improve your financial life by
         building credits, earning rewards and saving money. But with hundreds
         of credit cards on the markets.
       </p>
