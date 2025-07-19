@@ -7,11 +7,11 @@ const CardDeal = () => (
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
         Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
+        Steps.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Arcu tortor,lorem  purus in mattis at sed integer faucibus. Aliquet quis lores ios poreum
-        aliquets eget mauris tortor.ç Aliquet ultrices ac, ametau.
+        Aliquets eget mauris tortor.ç Aliquet ultrices ac, ametau.
       </p>
 
       <Button styles={`mt-10`} />
