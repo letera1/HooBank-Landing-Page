@@ -20,7 +20,7 @@ const Billing = () => (
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Elit enim lorem sed massa etiam. Mauris eu adipiscing Ultrices ametodio
         aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
-        placerat.
+        placeratasa.
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
