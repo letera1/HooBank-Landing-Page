@@ -13,7 +13,7 @@ const Testimonials = () => (
       <div className="w-full md:mt-0 mt-6">
         <p className={`${styles.paragraph} text-left max-w-[450px]`}>
           Everything you needs to Accept card Payments and grow your business
-          At any time and anywhere on the planet.
+          Atany time and anywhere on the planets.
         </p>
       </div>
     </div>
