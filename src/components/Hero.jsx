@@ -20,7 +20,7 @@ const Hero = () => {
             <span className="text-gradient">Generations</span>{" "}
           </h1>
           <div className="ss:flex hidden md:mr-4 mr-0">
-            <GetStarted />
+            <getStarted />
           </div>
         </div>
 
@@ -30,7 +30,7 @@ const Hero = () => {
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           Our teams of experts uses a methodology to identify the credit cards
           most likely to fit your needs. We examine annual percentage rates,
-          annual fees.
+          annuals fees.
         </p>
       </div>
 
